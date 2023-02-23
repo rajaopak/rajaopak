@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋
+### I'm rajaopak
+I am a High School Student.
 
-<!--
-**rajaopak/rajaopak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://raw.githubusercontent.com/rajopak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rajopak/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/rajopak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rajopak/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
-Here are some ideas to get you started:
+## My Trophy
+![](https://github-profile-trophy.vercel.app/?username=rajopak&theme=discord)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## CodersRank Score
+[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rajopak)](https://profile.codersrank.io/user/rajopak)
