@@ -2,10 +2,10 @@
 ### I'm rajaopak
 I am a High School Student.
 
-![](https://raw.githubusercontent.com/ARVIN3108/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ARVIN3108/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/ARVIN3108/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/ARVIN3108/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/rajaopak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rajaopak/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/rajaopak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rajaopak/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ## My Trophy
 ![](https://github-profile-trophy.vercel.app/?username=rajaopak&theme=discord&no-frame=true)
