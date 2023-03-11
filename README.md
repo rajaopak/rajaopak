@@ -1,6 +1,7 @@
 # Hi 👋
 ### I'm rajaopak
-I am a High School Student.
+I am a High School Student. 
+I live in Jakarta, Indonesia.
 
 ![](https://raw.githubusercontent.com/rajaopak/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rajaopak/stats/master/generated/overview.svg#gh-light-mode-only)
