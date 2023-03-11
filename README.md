@@ -12,5 +12,4 @@ I live in Jakarta, Indonesia.
 ## My Trophy
 ![](https://github-profile-trophy.vercel.app/?username=rajaopak&theme=discord&no-frame=true)
 
-## CodersRank Score
-[![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=rajaopak)](https://profile.codersrank.io/user/rajaopak)
+[![wakatime](https://wakatime.com/badge/user/7815478f-159f-4f8f-a7e6-b67167675f9b.svg)](https://wakatime.com/@7815478f-159f-4f8f-a7e6-b67167675f9b) 
