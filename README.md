@@ -1,6 +1,6 @@
 # Hi 👋
 ### I'm rajaopak
-I am a High School Student. 
+Currently a Student in High School. 
 I live in Jakarta, Indonesia.
 
 I like to learn a new things!
