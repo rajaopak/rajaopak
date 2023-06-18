@@ -3,6 +3,11 @@
 I am a High School Student. 
 I live in Jakarta, Indonesia.
 
+I like to learn a new things!
+
+Minecraft plugin maker.
+I Accept request for making custom minecraft plugin.
+
 ## My Stats
 ![](https://raw.githubusercontent.com/rajaopak/stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/rajaopak/stats/master/generated/overview.svg#gh-light-mode-only)
