@@ -1,12 +1,10 @@
 # Hi 👋
 ### I'm rajaopak
-Currently a Student in High School. 
-I live in Jakarta, Indonesia.
+Right now, I'm a high school student. I live in Jakarta, Indonesia.
 
-I like to learn a new things!
+I like to learn new things!
 
-Minecraft plugin maker.
-I Accept request for making custom minecraft plugin.
+Minecraft plugin maker. I accept requests for developing custom Minecraft plugins.
 
 ## My Stats
 ![](https://raw.githubusercontent.com/rajaopak/stats/master/generated/overview.svg#gh-dark-mode-only)
